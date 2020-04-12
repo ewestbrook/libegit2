@@ -1,0 +1,1 @@
+../eew/ewbuild/magit-libegit2.el/ewbuild.sh
